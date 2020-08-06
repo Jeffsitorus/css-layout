@@ -1,0 +1,30 @@
+/* css layout 
+    display = inline, inline-block, block, none
+*/
+/* elemen yang inline = a, b, em, i, dll 
+    elemen yang block = p, h1, div, dlll */
+
+h1 {
+    background-color: orangered;
+}
+/* supaya a bisa diubah harus di ganti dengan display inline-block     */
+.navigasi a {
+    color: orange;
+    background-color: #eee;
+    display: inline-block;
+    padding: 20px;
+}
+h2 {
+    background-color: orangered;
+}
+.main p {
+    background-color: #eee;
+}
+.main p span {
+    color: orangered;
+}
+.copyright{
+    background-color: blue;
+    padding: 5px;
+    color: #fff;
+}

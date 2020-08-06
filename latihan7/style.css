@@ -1,0 +1,42 @@
+/* css float */
+/* .satu {
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+}
+.dua {
+    width: 100px;
+    height: 100px;
+    background-color: orangered;
+}
+.tiga {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    float: right;
+} */
+.container {
+    width: 800px;
+    border: 1px solid #333;
+    margin: auto;
+    padding: 10px;
+}
+/* .satu, .dua, .tiga {
+    width: 100px;
+    height: 100px;
+} */
+/* .satu {
+    background-color: orange;
+}
+.dua {
+    background-color: orangered;
+}
+.tiga {
+    background-color: yellow;
+    float: right;
+} */
+
+img {
+    float: right;
+    margin-left: 15px;
+}
